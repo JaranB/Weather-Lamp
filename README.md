@@ -13,6 +13,9 @@ The lamp without the 3D printed case:
 The lamp with the 3D printed case:
 ![alt text](https://github.com/JaranB/Weather-Lamp/blob/master/bilder/IMG_20180417_004917.jpg?raw=true)
 
+Wiring diagram:
+![alt text](https://github.com/JaranB/Weather-Lamp/blob/master/WeatherLamp_Koblingsskjema.png?raw=true)
+
 ## Components used:
 * 1x Particle Photon
 * 1x SN74HC595 Shift Register
